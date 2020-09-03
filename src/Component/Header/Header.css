@@ -1,0 +1,35 @@
+.upperCase{
+    text-transform: uppercase;
+}
+
+
+.header-name{
+    text-align: center;
+}
+.header-name h1{
+    font-size: 3.5em;
+    color:rgba(39, 44, 51, 0.952);
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+nav {
+    background-color: rgba(39, 44, 51, 0.952);
+    line-height: 25px;
+    padding: 5px;
+
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+    margin-right: 8px;
+    
+}
+
+nav a:hover{
+    background-color: rgba(255, 238, 0, 0.993);
+    color: black;
+    border-radius: 3px;
+    font-weight: bold;
+}
